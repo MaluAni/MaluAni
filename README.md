@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bogdan, CyberSec year 3 student at [NTU](https://www.ntu.ac.uk/)
+- 👋 Hi, I’m Bogdan, CyberSec Final Year student at [NTU](https://www.ntu.ac.uk/)
 
 - [Global Winner](https://www.hackerearth.com/challenges/hackathon/ibm-z-student-contest-powered-by-ibm-z-xplore/)  in the IBM Z Student Contest 2021
 
